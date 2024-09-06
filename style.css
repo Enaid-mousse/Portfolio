@@ -108,25 +108,25 @@
  
 @font-face {
     font-family: "Mazius Display Regular";
-    src: url("/Volumes/Savekeeper/LISAA/2021:2022/Cours/3_Typo/CODE copie/portfolio/fonts/MaziusDisplay-Regular.woff2") format("woff2");
+    src: url("https://github.com/Enaid-mousse/Portfolio/blob/master/fonts/._MaziusDisplay-Regular.woff2") format("woff2");
     font-weight: initial;
 }
 
 @font-face {
     font-family: "Mazius Display Bold";
-    src: url("/Volumes/Savekeeper/LISAA/2021:2022/Cours/3_Typo/CODE copie/portfolio/fonts/MaziusDisplay-Bold.woff2") format("woff2");
+    src: url("https://github.com/Enaid-mousse/Portfolio/blob/master/fonts/._MaziusDisplay-Bold.woff2") format("woff2");
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Mazius Display Italic";
-    src: url("/Volumes/Savekeeper/LISAA/2021:2022/Cours/3_Typo/CODE copie/portfolio/fonts/MaziusDisplay-Extraitalic.woff2") format("woff2");
+    src: url("https://github.com/Enaid-mousse/Portfolio/blob/master/fonts/._MaziusDisplay-Extraitalic.woff2") format("woff2");
     font-weight: lighter;
 }
 
 @font-face {
     font-family: "Mazius Display Italic Bold";
-    src: url("/Volumes/Savekeeper/LISAA/2021:2022/Cours/3_Typo/CODE copie/portfolio/fonts/MaziusDisplay-ExtraItalicBold.woff2") format("woff2");
+    src: url("https://github.com/Enaid-mousse/Portfolio/blob/master/fonts/._MaziusDisplay-ExtraItalicBold.woff2") format("woff2");
     font-weight: bolder;
 }
 
